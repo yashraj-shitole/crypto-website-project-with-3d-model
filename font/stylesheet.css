@@ -1,0 +1,46 @@
+
+
+@font-face {
+    font-family: 'odasansregular';
+    src: url('odasans-bold-webfont.woff2') format('woff2'),
+         url('odasans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'odasansregular';
+    src: url('odasans-light-webfont.woff2') format('woff2'),
+         url('odasans-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'odasansregular';
+    src: url('odasans-medium-webfont.woff2') format('woff2'),
+         url('odasans-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'odasanssemi_bold';
+    src: url('odasans-semibold-webfont.woff2') format('woff2'),
+         url('odasans-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
